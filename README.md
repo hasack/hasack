@@ -11,3 +11,5 @@ A couple of projects to start me off:
 🔭 DAT Viewer - WPF application that strips delimiters / control characters from a DAT file and displays the data in an interactive grid.
 
 🔐 Password Generator - Console application using .NET Cryptography library to generate passwords of a requested length and complexity.
+
+🏢 Console Infrastructure Queries - Console application using [Relativity REST APIs](https://platform.relativity.com/) to query infrastructure values.
