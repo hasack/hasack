@@ -10,4 +10,4 @@ A couple of projects to start me off:
 
 🔭 DAT Viewer - WPF application that strips delimiters / control characters from a DAT file and displays the data in an interactive grid.
 
-🔐 Password Generator - uses .NET Cryptography libraries to generate passwords of a requested length and complexity.
+🔐 Password Generator - Console application using .NET Cryptography library to generate passwords of a requested length and complexity.
