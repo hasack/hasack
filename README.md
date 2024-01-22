@@ -6,5 +6,5 @@ The eDisclosure / eDiscovery repos are for having fun at work, the others are ju
 
 A couple of projects to start me off:
 
-🔭 DAT Viewer - Takes a Concordance DAT file, strips off the delimiters / control characters and displays the data in an interactive grid (C# WPF app)
+🔭 DAT Viewer - WPF application that strips delimiters / control characters from a DAT file and displays the data in an interactive grid.
 
