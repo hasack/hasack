@@ -11,3 +11,5 @@ A couple of projects to start me off:
 🔐 Password Generator - Console application using .NET Cryptography library to generate passwords of a requested length and complexity.
 
 🏢 Console Infrastructure Queries - Console application using [Relativity REST APIs](https://platform.relativity.com/) to query infrastructure values.
+
+🔃 Rubiks Cube - library and implementation for solving a 3 x 3 Rubiks Cube.
